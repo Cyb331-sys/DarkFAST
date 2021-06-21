@@ -2,11 +2,12 @@
 * **Saya Tidak Bertanggung Jawab Atas Terjadi Masalahnya... Apapun Itu...**
 * **Jika Terjadi Masalah Terhadap Script Silahkan Report KeSaya**
 * **Terima Kasih Kepada**
-* [**AnggaXD**]()
-* [**YayanXD**]()
-* [**Mr.Risky**]()
-* [**Dapunta**]()
-* [**Ratu-Error**]()
+* _Terima Kasih Kepada !!_
+* [**Mr.Risky**](https://github.com/Dumai-991)
+* [**Hamzah**](https://github.com/Hamzahash)
+* [**AnggaXD**](https://github.com/anggaxd/anggaxd)
+* [**Yayan-XD**](https://github.com/Yayan-XD)
+* [**Dapunta**](https://github.com/Dapunta)
 
 
 ### Information Script
@@ -63,7 +64,3 @@ cd DarkFAST
 
 * **Untuk Stop Script Tekan :**
 * ```CTRL + Z```
-
-
-
-
