@@ -1,3 +1,7 @@
+![](https://raw.githubusercontent.com/Dumai-991/DarkFAST/main/Image/Screenshot_2021-06-19-18-28-41-11.jpg)
+
+
+
 ### Information
 * **Saya Tidak Bertanggung Jawab Atas Terjadi Masalahnya... Apapun Itu...**
 * **Jika Terjadi Masalah Terhadap Script Silahkan Report KeSaya**
@@ -8,7 +12,6 @@
 * [**AnggaXD**](https://github.com/anggaxd/anggaxd)
 * [**Yayan-XD**](https://github.com/Yayan-XD)
 * [**Dapunta**](https://github.com/Dapunta)
-
 
 ### Information Script
 * _Script Ini Menggunakan 4 Method Login_
