@@ -1,5 +1,5 @@
 
-# Obfuscated By Arya77
+# Obfuscated By Risky
 #################
 # Time      : Mon Jun 21 09:51:41 2021
 # Platform  : Linux aarch64
