@@ -1,7 +1,4 @@
-![](https://raw.githubusercontent.com/Dumai-991/DarkFAST/main/Image/Screenshot_2021-06-19-18-28-41-11.jpg)
-
-
-
+![](https://raw.githubusercontent.com/Dumai-991/DarkFAST/main/Image/Screenshot_2021-06-24-09-28-32-52.jpg)
 ### Information
 * **Saya Tidak Bertanggung Jawab Atas Terjadi Masalahnya... Apapun Itu...**
 * **Jika Terjadi Masalah Terhadap Script Silahkan Report KeSaya**
